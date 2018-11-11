@@ -1,0 +1,64 @@
+body {
+	font-family: 'Bangers', cursive;
+	background: #4c03aa;
+	color: #fff;
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+	background: #C12C1E;
+	border-radius: 24px;
+}
+
+p {
+	font-family: 'Bangers', cursive;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+
+
+h1 {
+	font-family: 'Bangers', cursive;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: 'Bangers', cursive;
+	color: orange;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.kung-fu {
+	background: black;
+	border-radius: 12px;
+	color: white;
+	font-style: Courier New;
+	font-size: 15px;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 20px;
+
+}
+
+#movie-form {
+	text-align: right;
+}
+
+
+
+input#movie-input {
+	color: #000;
+}
+
+input#add-movie.btn,btn-deafult {
+	color: #000;
+}
