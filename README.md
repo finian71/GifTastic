@@ -4,6 +4,6 @@
 ## When the user clicks on a button, the page should grab 10 static, non-animated gif images from the GIPHY API and place them on the page.
 ### The rating for each image appears to the top right.  
 ### This data is provided by the GIPHY API.
-http://https://finian71.github.io/GifTastic/ 
+https://finian71.github.io/GifTastic/ 
 #### Authors: Matt Feeley
 
