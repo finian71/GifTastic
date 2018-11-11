@@ -1,7 +1,7 @@
 //Initial array of movies	
 $(document).ready(function() {
 
-  var topics = ["Ip Man", "Enter the Dragon", "Ong-Bak", "Brotherhood of the Wolf", "13 Assassins", "The Man From Nowhere", "Kung Fu Hustle", "Once Upon a Time in China", "Kill Bill Vol.1", "Iron Monkey", "Crouching Tiger, Hidden Dragon", "The Legend of Drunken Master", "Seven Samurai"];	
+  var topics = ["Yojimbo", "Ip Man", "Enter the Dragon", "Lone Wolf and Cub: Shogun Assassin", "The Matrix", "The Five Deadly Venoms", "13 Assassins", "John Wick", "The Legend of Drunken Master", "Game of Death", "The Raid: Redemption", "The Grandmaster", "Bloodsport", "Kung Fu Hustle", "Unleashed", "Kill Bill: Volume 1 & 2", "House of Flying Daggers"];	
 
   //  create topics array buttons
   function renderButtons(){
