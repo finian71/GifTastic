@@ -5,5 +5,5 @@
 ### The rating for each image appears to the top right.  
 ### This data is provided by the GIPHY API.
 http://https://finian71.github.io/GifTastic/ 
-
+#### Authors: Matt Feeley
 
